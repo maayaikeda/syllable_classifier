@@ -39,7 +39,7 @@ Use the classifier:
 
 ![image](https://github.com/maayaikeda/syllable_classifier/blob/main/images/Unknown-2.png)
 
-
+** I could easily get a 95+% accuracy. It is basically as good as the trainer (my eyes).
 
 [Link to Google Colab notebook](https://colab.research.google.com/drive/1iOrfKuesu-pDgTeEipsfHE2Mj9W-M4Mk?usp=sharing)
 
