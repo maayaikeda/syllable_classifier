@@ -13,20 +13,25 @@ After running this notebook, you will have:
 *  An png plot of a spectogram with predicted syllables labeled like the example below.
 *  A CSV file with predicted syllable label, syllable duration, and start and end time. You can add code to extract other features such as pitch later.
 
-Work flow:
+
+## Work flow:
+
 Preparation:
-1.  Filter audio file
-2.  Segment files into syllables
-3.  Label the files
+1.   Filter audio file
+2.   Segment files into syllables
+3.   Convert the audio files to images
+4.   Label/sort the files
 
 Train the classifier:
-
-4.  Train the classifier
+5.   Train the classifier
+6.   Save the model
 
 Use the classifier:
 
-5.  Upload a new song using the upload widget.
-6.  Create a table and an image with predicted syllable labels
+7.   Load the model
+8.   Upload a new song using the upload widget
+9.   Process the new file and classify detected syllables
+10.   Create a table and an image with predicted syllable labels
 
 
 
