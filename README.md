@@ -51,3 +51,6 @@ Use the classifier:
 5.  Go through all the cells
 
 
+** Make sure you switch the file names and directory to your own.
+
+Last updated: 11/9/2020
