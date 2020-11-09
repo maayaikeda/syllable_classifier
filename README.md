@@ -25,8 +25,17 @@ Use the classifier:
 
 
 
+![image](https://github.com/maayaikeda/syllable_classifier/blob/main/images/Unknown-2.png)
 
 
 
-Linke to Google colaboratory notebook: https://colab.research.google.com/drive/1iOrfKuesu-pDgTeEipsfHE2Mj9W-M4Mk?usp=sharing
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1iOrfKuesu-pDgTeEipsfHE2Mj9W-M4Mk?usp=sharing)
+
+## How to use the notebook:
+1.  Create a copy of the notebook in your google drive.
+2.  Change runtime to GPU (Runtime>Change runtime type)
+3.  Change directory to your google drive (go to section "Segment files into syllables)
+4.  Upload a song file in your directory
+5.  Go through all the cells
+
 
