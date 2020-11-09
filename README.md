@@ -7,7 +7,7 @@ After running this notebook, you will have:
 
 *  A deep learning model that can predict the syllable label of a new audio file (see image bellow).
 
-After running the model with the new audio file, you will have: 
+(Using the model, you will get:)
 
 *  A folder containing audio files of individual syllables
 *  An png plot of a spectogram with predicted syllables labeled like the example below.
