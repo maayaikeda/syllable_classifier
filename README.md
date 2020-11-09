@@ -25,7 +25,8 @@ Train the classifier:
 
 Use the classifier:
 
-5.  Run the model on new file to get syllable infomation.
+5.  Upload a new song using the upload widget.
+6.  Create a table and an image with predicted syllable labels
 
 
 
