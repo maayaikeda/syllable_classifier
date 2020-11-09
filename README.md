@@ -17,12 +17,14 @@ After running this notebook, you will have:
 ## Work flow:
 
 Preparation:
+
 1.   Filter audio file
 2.   Segment files into syllables
 3.   Convert the audio files to images
 4.   Label/sort the files
 
 Train the classifier:
+
 5.   Train the classifier
 6.   Save the model
 
