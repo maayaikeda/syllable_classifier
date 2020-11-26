@@ -56,8 +56,10 @@ Use the classifier:
 
 ## To create a Markov diagram or matrix using this file
 
+I have a separate notebook for this.
+You can create a transition probability diagram like this:
 
-![image](https://github.com/maayaikeda/syllable_classifier/blob/main/images/transitionprob.png)
+<img src="https://github.com/maayaikeda/syllable_classifier/blob/main/images/transitionprob.png" width="288">
 
 [Link to Google Colab notebook](https://colab.research.google.com/drive/1EVWlEoTyoKjt4JzQxrDXMYtgJd0ovbwe?usp=sharing)
 
