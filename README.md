@@ -53,4 +53,12 @@ Use the classifier:
 
 ** Make sure you switch the file names and directory to your own.
 
-Last updated: 11/9/2020
+
+## To create a Markov diagram or matrix using this file
+
+
+![image](https://github.com/maayaikeda/syllable_classifier/blob/main/images/transitionprob.png)
+
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1EVWlEoTyoKjt4JzQxrDXMYtgJd0ovbwe?usp=sharing)
+
+Last updated: 11/26/2020
